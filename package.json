@@ -1,0 +1,22 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "random js package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilsarwe/testjs.git"
+  },
+  "author": "Swapnil Sarwe <swapnilsarwe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnilsarwe/testjs/issues"
+  },
+  "homepage": "https://github.com/swapnilsarwe/testjs#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
